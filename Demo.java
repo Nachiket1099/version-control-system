@@ -17,7 +17,8 @@ newNode.next =head;
 head=newNode;
 }
 public void Display(){
-
+Node cureent =head;
+Systwm.out.print()
 }
 }
 
